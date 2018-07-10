@@ -1,0 +1,48 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-D63GPSV
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-87-46-61
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::2061:c842:4930:fe12%3(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.99.38(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.99.1
+   DHCPv6 IAID . . . . . . . . . . . : 54823515
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-22-6D-8B-95-44-8A-5B-87-46-61
+   DNS Servers . . . . . . . . . . . : 203.188.241.7
+                                       8.8.4.4
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{726B5406-A755-4BED-AA80-6E72DC52FA1E}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Teredo Tunneling Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2001:0:9d38:6abd:1c7b:1cde:4ba3:1d9d(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::1c7b:1cde:4ba3:1d9d%4(Preferred) 
+   Default Gateway . . . . . . . . . : ::
+   DHCPv6 IAID . . . . . . . . . . . : 134217728
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-22-6D-8B-95-44-8A-5B-87-46-61
+   NetBIOS over Tcpip. . . . . . . . : Disabled
